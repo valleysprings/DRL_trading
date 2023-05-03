@@ -7,7 +7,7 @@
 This demo aims to create an intelligent and dynamic trading platform prototype by harnessing the power of deep reinforcement learning (DRL). Using the Stable baseline 3 framework, this demo showcases the capabilities of DRL in multi-stock trading scenarios, with a special focus on crypto markets.
 
 <div align="center">
-<img align="center" src=https://github.com/valleysprings/crypto_trading/tree/main/plot/crypto_trading.jpg width="50%"/>
+<img align="center" src=crypto_trading/tree/main/plot/crypto_trading.jpg width="50%"/>
 </div>
 <br>
 
